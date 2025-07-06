@@ -11,7 +11,7 @@ A aplicação consiste em uma biblioteca de livros onde é possível:
 - Receber feedbacks visuais com mensagens de sucesso, erro, loaders, tooltips e mensagens condicionais.
 
 ## Estrutura
-mvp-frontend-avancado/
+mvp-frontend/
 ├── db.json
 ├── package.json
 ├── public/
